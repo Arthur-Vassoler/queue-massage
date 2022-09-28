@@ -1,6 +1,4 @@
 <h1 align="center"> 🚧 Projeto em construção 🚧 </h1>
-----
-
 
 # 🛠️ Abrir e rodar o projeto
 ### **Após baixar o projeto siga as seguintes estruções.**
